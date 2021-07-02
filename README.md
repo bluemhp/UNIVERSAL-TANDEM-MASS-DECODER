@@ -1,4 +1,4 @@
-# mhp
+# UNIVERSAL TANDEM MASS DECODER
 ![image](https://user-images.githubusercontent.com/72596678/124212304-5320e300-db21-11eb-948e-11be5356ba46.png)
 
 
