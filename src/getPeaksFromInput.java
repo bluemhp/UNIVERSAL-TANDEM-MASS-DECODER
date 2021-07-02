@@ -11,40 +11,7 @@ public class getPeaksFromInput {
  
 	    //Get the size of the Array
 	    int sizeArr = arr.length;
-	    //System.out.println("Input sizeArr >> " + sizeArr + " Input sizeArr-1 >> " + (sizeArr-1)); 
-/*    
-	    for ( int index = 1; index < sizeArr-1; index++)
-	    {	        
-	    	
-	    	if((arr[index]) < (arr[index-1]) && (index == 1))
-	    	{	          
-	    		//System.out.println(" Peak >>> " + arr[index-1] + "   Position >>> " + (index-1));  
-	    		posArr.add(index-1);
-	    		peakArr.add(arr[index-1]); 
-	    		// Dealing with plateaus        
-	    	}
-	    	if((arr[index]) > (arr[index-1]) && (arr[index+1]) <  (arr[index]))
-	    	{	          
-	    		//System.out.println(" Peak >>> " + arr[index] + "   Position >>> " + index);  
-	    		posArr.add(index);
-	    		peakArr.add(arr[index]); 
-	    		// Dealing with plateaus        
-	    	}
-	    	else if ((arr[index]) > (arr[index-1]) && (arr[index+1]) ==  (arr[index]))
-	    	{
-	    		//System.out.println(" Peak >>> " + arr[index] + "   Position >>> " + index);  
-	    		posArr.add(index);
-	    		peakArr.add(arr[index]);     
-	    	}
-	    	else if ((arr[index]) < (arr[index+1]) && ((index+1) == (sizeArr-1)))
-	    	{
-	    		//System.out.println(" Peak >>> " + arr[index+1] + "   Position >>> " + (index+1));  
-	    		posArr.add(index+1);
-	    		peakArr.add(arr[index+1]);     
-	    	}
-	    }
-	    
-*/	    
+	    //System.out.println("Input sizeArr >> " + sizeArr + " Input sizeArr-1 >> " + (sizeArr-1));     
 
 		for ( int index = 0; index <= sizeArr-1; index++)
 	    {	        
