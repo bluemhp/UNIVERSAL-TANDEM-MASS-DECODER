@@ -9,5 +9,5 @@ The buttons "Load files and run" and "Choose and run" are used to select a fold,
 
 ![image](https://user-images.githubusercontent.com/72596678/124209290-da6b5800-db1b-11eb-86df-ca181b963c15.png)
 
-The new version tandemdecoder.zip is for decode the uploaded data at Zenodo. The possible link is below.
+The new version tandemdecoder.zip is for decode the uploaded data at Zenodo. 
 The related tandem mass spectra data is available at https://doi.org/10.5281/zenodo.7559504
